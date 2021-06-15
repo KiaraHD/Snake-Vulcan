@@ -40,3 +40,6 @@ If the game is not loading correctly you have to close the driver software `Rocc
 ## Contributors:
 - [KiaraHD](https://github.com/kiarahd)
 - [Langomatisch](https://github.com/langomatisch)
+
+## Creator of API:
+- [simonhuwiler](https://github.com/simonhuwiler/roccatvulcan)
