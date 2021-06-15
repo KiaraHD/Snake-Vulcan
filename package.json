@@ -1,0 +1,11 @@
+{
+  "name": "snake-vulcan",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "roccatvulcan": "^0.1.5"
+  }
+}
