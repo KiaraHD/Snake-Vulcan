@@ -34,6 +34,9 @@ Evertime after that:
 ## Issues
 If you have any issues use the Issues Tab to report them.
 
+## Known Bugs
+If the game is not loading correctly you have to close the driver software `Roccat Swarm`.
+
 ## Contributors:
 - [KiaraHD](https://github.com/kiarahd)
 - [Langomatisch](https://github.com/langomatisch)
