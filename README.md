@@ -1,6 +1,6 @@
-#Snake Vulcan
+# Snake Vulcan
 
-##Play Snake on your ``Roccat Vulcan`` Keyboard
+## Play Snake on your ``Roccat Vulcan`` Keyboard
 
 ## How to Install
 ### Windows
