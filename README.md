@@ -1,11 +1,15 @@
 # Snake Vulcan
 
+![RELEASE](https://badgen.net/github/release/kiarahd/snake-vulcan)
+
 ### Play Snake on your ``Roccat Vulcan`` Keyboard
 
 ## How to Install
 
 ### Prerequisites
 You'll need to install [Node-JS](https://nodejs.org/en/)
+
+You'll need to download [Snake Vulcan](https://github.com/KiaraHD/snake-vulcan/releases)
 
 ### Windows
 First Time Execution:
