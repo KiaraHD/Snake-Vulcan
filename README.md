@@ -1,8 +1,12 @@
 # Snake Vulcan
 
-## Play Snake on your ``Roccat Vulcan`` Keyboard
+### Play Snake on your ``Roccat Vulcan`` Keyboard
 
 ## How to Install
+
+### Prerequisites
+You'll need to install [Node-JS](https://nodejs.org/en/)
+
 ### Windows
 First Time Execution:
 - Execute the `install.bat`
